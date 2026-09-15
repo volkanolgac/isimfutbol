@@ -1,0 +1,8 @@
+{
+  "name": "i-SiM 1. Futbol Ligi",
+  "description": "2D Top-Down Futbol Menajerlik ve Maç Simülasyon Oyunu. 18 takım, gerçekçi maç motoru, kupa ve lig modları, taktik tahtası ve online oda desteği.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
